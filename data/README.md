@@ -1,5 +1,5 @@
 The followings are the supplementary materials for the paper   
-"Cybersecurity Event Detection with New and Re-emerging Words" (To appear in ACM ASIACCS 2020, https://asiaccs2020.cs.nthu.edu.tw/program/)  
+"Cybersecurity Event Detection with New and Re-emerging Words" (ACM ASIACCS 2020, https://dl.acm.org/doi/10.1145/3320269.3384721)
 
 All the materials here are our own intellectual property. It is __NOT__ allowed to distribute the materials here for other purposes.
 
