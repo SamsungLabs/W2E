@@ -1,5 +1,5 @@
 This is the data corresponding to the paper    
-"Cybersecurity Event Detection with New and Re-emerging Words". (To appear in ACM ASIACCS 2020)
+"Cybersecurity Event Detection with New and Re-emerging Words". (ACM ASIACCS 2020)
 ## 
 You can find  
 - Supplementary materials at [data](data) directory.  
