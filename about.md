@@ -12,7 +12,7 @@ The words that have not been seen before the time of event detection.
 2. Re-emerging words  
 The words that have appeared at least once before the time of event detection, but show a significant rise in their frequencies at the time of detection.
   
-For detailed explanation about dictionaries and algorithms of W2E, please check our paper **"Cybersecurity Event Detection with New and Re-emerging Words"** *(To appear in ACM ASIACCS 2020)*
+For detailed explanation about dictionaries and algorithms of W2E, please check our paper **"[Cybersecurity Event Detection with New and Re-emerging Words](https://dl.acm.org/doi/10.1145/3320269.3384721)"** *(ACM ASIACCS 2020)*
 
 Dictionaries that W2E uses can be found in [GitHub](https://github.com/Samsung/W2E).
 
