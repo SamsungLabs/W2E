@@ -1,0 +1,24 @@
+name: Check post contents
+
+on:
+  push:
+    branches: [ gh-pages ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+
+      - name: Check post contents
+        run: |
+          for post in ./_posts/* 
+          do
+              if [ "$(wc -l < $post)" -le 7 ]; then
+                  echo "Invalid post found:: ${post}"
+                  exit 1
+              fi
+          done
