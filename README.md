@@ -3,4 +3,4 @@ This is the data corresponding to the paper
 ## 
 You can find  
 - Supplementary materials at [data](data) directory.  
-- Sample result of our algorithm at [https://samsung.github.io/W2E/](https://samsung.github.io/W2E/)
+- Sample result of our algorithm at [https://samsunglabs.github.io/W2E/](https://samsunglabs.github.io/W2E/)
