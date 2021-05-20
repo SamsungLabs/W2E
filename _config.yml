@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is brought to you by the Security team at Samsung Research.
 
 baseurl: "/W2E/" # the subpath of your site, e.g. /blog
-url: "https://samsung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#github_username: Samsung/W2E
+url: "https://samsunglabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#github_username: SamsungLabs/W2E
 
 # Build settings
 markdown: kramdown

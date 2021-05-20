@@ -14,7 +14,7 @@ The words that have appeared at least once before the time of event detection, b
   
 For detailed explanation about dictionaries and algorithms of W2E, please check our paper **"[Cybersecurity Event Detection with New and Re-emerging Words](https://dl.acm.org/doi/10.1145/3320269.3384721)"** *(ACM ASIACCS 2020)*
 
-Dictionaries that W2E uses can be found in [GitHub](https://github.com/Samsung/W2E).
+Dictionaries that W2E uses can be found in [GitHub](https://github.com/SamsungLabs/W2E).
 
 ### [Detected events]({{ site.baseurl }})
 Detected events are posted as table. Results will be updated daily basis.  
