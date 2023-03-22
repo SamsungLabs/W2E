@@ -6,4 +6,4 @@ You can find
 - Sample result of our algorithm at [https://samsunglabs.github.io/W2E/](https://samsunglabs.github.io/W2E/)
 
 Notice
-- Due to limitations on sharing, we are unable to provide more data related to Tweets or any derivative works, as governed by Twitter's Terms of Service ([ToS](https://twitter.com/en/tos)).
+- Due to limitations on sharing, we are unable to provide more data related to Tweets or any derivative works, as governed by Twitter's Terms of Service ([ToS](https://twitter.com/en/tos)) and [Developer Policy](https://developer.twitter.com/en/developer-terms/policy#4-e).
